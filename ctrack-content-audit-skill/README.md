@@ -35,6 +35,4 @@ Plain language, no special syntax:
 
 Section B of `SKILL.md` has a table of Ctrack's known facts (certifications, sourced stats) and known unverified claims. Every audit is a chance to grow it — if you confirm a new source or find a new unsourced claim, update the table so the next audit catches it automatically.
 
-## Attribution
 
-Section A (the AI-writing pattern catalog) incorporates and adapts the open-source [avoid-ai-writing](https://github.com/conorbronsdon/avoid-ai-writing) project by Conor Bronsdon, MIT License — see `LICENSE` and the attribution section at the bottom of `SKILL.md`. Section B (the Ctrack-specific layer) is original, built for this team.
